@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:13:23:37 -0400] "GET / HTTP/1.1" 200 2330 http-bio-9090-exec-1 592
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:13:23:37 -0400] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 404 949 http-bio-9090-exec-2 21
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:13:23:37 -0400] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 404 949 http-bio-9090-exec-4 67
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:13:23:37 -0400] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 404 949 http-bio-9090-exec-5 24
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:13:23:49 -0400] "POST /log/verify HTTP/1.1" 302 - http-bio-9090-exec-8 2270
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:13:23:50 -0400] "GET /diary/1 HTTP/1.1" 200 8543 http-bio-9090-exec-9 999
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:13:25:14 -0400] "POST /diary/add/1 HTTP/1.1" 302 - http-bio-9090-exec-1 350
+0:0:0:0:0:0:0:1 - - [07/Jun/2017:13:25:14 -0400] "GET /diary/1 HTTP/1.1" 200 8841 http-bio-9090-exec-1 65
